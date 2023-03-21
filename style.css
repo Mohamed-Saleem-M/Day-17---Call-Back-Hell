@@ -1,0 +1,7 @@
+#display {
+    text-align: center;
+    padding: 300px;
+    font-size: 40px;
+    font-weight: bolder;
+    background-image: linear-gradient(to bottom,orange,white,green);
+}
